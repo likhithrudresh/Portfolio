@@ -74,10 +74,10 @@ navLinks.forEach(link => {
 
 const typingText = document.getElementById('typingText');
 const phrases = [
-    'Quality & Operations Expert',
-    'Six Sigma Black Belt',
-    'Mechanical Engineer',
-    'Process Optimization Expert'
+    'Graduate Quality Engineer',
+    'Continuous Improvement Engineer',
+    'Lean Six Sigma & DMAIC',
+    'Mechanical Engineer (BEng)'
 ];
 
 let phraseIndex = 0;
