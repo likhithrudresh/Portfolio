@@ -936,3 +936,19 @@ footer {
     justify-content: center;
   }
 }
+/* Experience bullet lists */
+.timeline-content ul {
+  list-style: disc;
+  padding-left: 1.1rem;
+  margin: 0;
+  color: var(--color-text-secondary);
+  line-height: 1.7;
+}
+
+.timeline-content li {
+  margin-bottom: 0.4rem;
+}
+
+.timeline-content li:last-child {
+  margin-bottom: 0;
+}
